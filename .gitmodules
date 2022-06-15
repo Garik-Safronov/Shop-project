@@ -1,0 +1,3 @@
+[submodule "gb-api-may"]
+	path = gb-api-may
+	url = git@github.com:Garik-Safronov/gb-api-may.git
